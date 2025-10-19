@@ -1,1 +1,1 @@
-- 👋 Hello, I’m Navya Singh, a student at the Liberal Arts and Science Academy, passtionate about genetics, physics, and data science. 
+- 👋 Hello, I’m Navya Singh, a student at UC Berkeley, passtionate about chemical engineering and computation. 
